@@ -45,13 +45,13 @@ Looking at categorical and continuous feature summaries and making inferences ab
 - 63.16% females and 71.94% of males got placed. Males have more chance to get placed.
 
 ## Model Building
--- First use LOGISTIC REGRESSION  : Accuracy is : 0.7962962962962963
+-- LOGISTIC REGRESSION  : Accuracy is : 0.7962962962962963
 -- 
--- Second use DECISION TREE ALGORITHM : Accuracy is : 1.0
+-- DECISION TREE ALGORITHM : Accuracy is : 1.0
 -- 
--- Third  use RANDOM FOREST CLASSIFIER : Accuracy is : 0.8148148148148148
+-- RANDOM FOREST CLASSIFIER : Accuracy is : 0.8148148148148148
 --
--- Fourth use SUPPORT VECTOR MACHINE : Accuracy is : 0.7483443708609272
+-- SUPPORT VECTOR MACHINE : Accuracy is : 0.7483443708609272
 --
 
 
